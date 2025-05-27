@@ -1,10 +1,19 @@
-<h2> ORACLE VIRTUAL BOX / ACTIVE DIRECTORY TOPOLOGY</h2>
+# ORACLE VIRTUAL BOX & ACTIVE DIRECTORY 
 
-![image](https://github.com/user-attachments/assets/b08d431a-8764-43bd-aec9-0df5c69c96bc)
+<p align="center">
+![image](https://github.com/user-attachments/assets/d341aa27-38e2-4010-a238-9fbbd122516b)
+</p>
 
-<h2>LAB OVERVIEW</h2>
+
+## LAB OVERVIEW
 
 This lab simulates a basic Windows domain environment using Oracle VirtualBox on macOS. It includes the setup of a Widows Server 2019 Domain Controller and a Windows 10 client, and demonstrates essential network services such as Active Directory, DNS, DHCP, and NAT configuration.
+
+## TOPOLOGY
+<p align="center">
+![image](https://github.com/user-attachments/assets/b08d431a-8764-43bd-aec9-0df5c69c96bc)
+</p>
+
 
 <h2>SOFTWARE</h2>
 
