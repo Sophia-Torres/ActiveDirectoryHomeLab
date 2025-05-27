@@ -4,13 +4,13 @@
 
 <h2>LAB OVERVIEW</h2>
 
-The purpose of this lab is to create a basic Windows networking environment with Active Directory, utilizing Oracle VirtualBox with a Mac OS as a host. This lab will cover the setup of a virtualized domain controller, a client machine, and the configuration of essiantial networking services (ex. NAT, DNS, DHCP, and Active Directory).
+The purpose of this lab is to create a basic Windows networking environment with Active Directory, utilizing Oracle VirtualBox with a Mac OS as a host. This lab will cover the setup of a virtualized domain controller, a client machine, and the configuration of essential networking services (ex. NAT, DNS, DHCP, and Active Directory).
 
 <h2>SOFTWARE</h2>
 
 - ORACLE VIRTUALBOX
 - ORACLE VIRTUALBOX ESSENTIALS
-- WINDOWS SERVER2019 ISO
+- WINDOWS SERVER 2019 ISO
 - WINDOWS 10 ISO
 
 <h2>OBJECTIVES</h2>
