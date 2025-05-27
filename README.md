@@ -2,24 +2,23 @@
 
 ![image](https://github.com/user-attachments/assets/d341aa27-38e2-4010-a238-9fbbd122516b)
 
-
-## LAB OVERVIEW
+## 🔍 LAB OVERVIEW
 
 This lab simulates a basic Windows domain environment using Oracle VirtualBox on macOS. It includes the setup of a Widows Server 2019 Domain Controller and a Windows 10 client, and demonstrates essential network services such as Active Directory, DNS, DHCP, and NAT configuration.
 
-## TOPOLOGY
+## 🌐 LAB TOPOLOGY
 
 ![image](https://github.com/user-attachments/assets/b08d431a-8764-43bd-aec9-0df5c69c96bc)
 
 
-<h2>SOFTWARE</h2>
+## 🧰 TECHNOLOGIES USED
 
 - Oracle VirtualBox (hosted on macOS)
 - Oracle VirtualBox Essentials
 - Windows Server 2019 ISO
 - Windows 10 ISO
 
-<h2>OBJECTIVES</h2>
+## 🎯 LAB OBJECTIVES
 
 1. Install and configure Oracle VirtualBox on MacOS to host virtual machines.
 2. Create a Windows Server 2019 VM as a domain controller.
