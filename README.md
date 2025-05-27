@@ -4,21 +4,21 @@
 
 <h2>LAB OVERVIEW</h2>
 
-The purpose of this lab is to create a basic Windows networking environment with Active Directory, utilizing Oracle VirtualBox with a Mac OS as a host. This lab will cover the setup of a virtualized domain controller, a client machine, and the configuration of essential networking services (ex. NAT, DNS, DHCP, and Active Directory).
+This lab simulates a basic Windows domain environment using Oracle VirtualBox on macOS. It includes the setup of a Widows Server 2019 Domain Controller and a Windows 10 client, and demonstrates essential network services such as Active Directory, DNS, DHCP, and NAT configuration.
 
 <h2>SOFTWARE</h2>
 
-- ORACLE VIRTUALBOX
-- ORACLE VIRTUALBOX ESSENTIALS
-- WINDOWS SERVER 2019 ISO
-- WINDOWS 10 ISO
+- Oracle VirtualBox (hosted on macOS)
+- Oracle VirtualBox Essentials
+- Windows Server 2019 ISO
+- Windows 10 ISO
 
 <h2>OBJECTIVES</h2>
 
 1. Install and configure Oracle VirtualBox on MacOS to host virtual machines.
-2. Set up Windows Server 2019 virtual machine as a domain controller.
-3. Set up Windows 10 virtual machine as a client connected to the domain.
-4. Configure internal networking, NAT, DHCP, DNS, and Active Directory
-5. Use a PowerShell script to automate the creation of 1,000 users in Active Directory
-6. Verify that the client machine is connected to the internet and configured properly by using "ipconfig" and "ping" in the Commandline
-7. Verify that the client is connected to the domain and able to be logged in using one of the users created with the Powershell script 
+2. Create a Windows Server 2019 VM as a domain controller.
+3. Create a Windows 10 VM as a domain-joined client.
+4. Configure internal networking, NAT, DHCP, and DNS to simulate an enterprise environment
+5. Use a PowerShell scripting to automate the creation of 1,000 in Active Directory user accounts
+6. Verify client connectivity using "ipconfig" and "ping" from the Windows 10 Command Line
+7. Confirm domain functionality by logging into the client VM with a domain user account created via script
